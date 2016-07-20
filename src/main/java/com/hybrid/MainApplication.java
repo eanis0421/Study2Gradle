@@ -5,6 +5,7 @@ public class MainApplication {
 	 	System.out.println("##################");
 	 	System.out.println("Hello Study2Gradle");
 	 	System.out.println("Hello Study2Gradle");
+	 	System.out.println("Hello Study2Gradle");
 	 	System.out.println("##################");
 	}
 }
